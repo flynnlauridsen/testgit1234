@@ -1,5 +1,5 @@
 how the fuck is it going. the names lord farquad
 x = 5
-y = 6
+y = 1
 
 hi conflict
